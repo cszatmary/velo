@@ -39,7 +39,6 @@ export default p => {
 
   p.pushProps = (newProps) => {
     props = newProps;
-    console.log(props);
   };
 
   function drawGrid() {
