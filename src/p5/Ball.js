@@ -1,6 +1,6 @@
 import Vector from './Vector';
 
-const BALL_SIZE = 20;
+const BALL_SIZE = 30;
 
 export default class Ball {
   constructor() {
